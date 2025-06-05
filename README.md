@@ -2,9 +2,9 @@
 
 This repository contains web components and patterns for use with AI-powered code generation tools. The following guidelines should be applied when generating code referencing this repository.
 
-## Style Guidelines
+## Style guidelines
 
-**HTML Structure**
+**HTML structure**
 
 -   Use semantic HTML5 elements wherever appropriate (section, header, nav, main, etc.)
 -   Maintain clean, well-indented HTML with consistent spacing
