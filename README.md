@@ -6,6 +6,8 @@ This repository contains web components and patterns for use with AI-powered cod
 
 **HTML structure**
 
+-   Never include full HTML document structure (`<html>`, `<head>`, `<body>` tags)
+-   Only provide code that would be contained within the body section
 -   Use semantic HTML5 elements wherever appropriate (section, header, nav, main, etc.)
 -   Maintain clean, well-indented HTML with consistent spacing
 
