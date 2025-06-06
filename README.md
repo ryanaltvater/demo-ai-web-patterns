@@ -15,6 +15,7 @@ This repository contains web components and patterns for use with AI-powered cod
 -   Always use utility classes from `utilities.min.css`
 -   Always use the `dx-*` prefix for classes from our design system
 -   Apply responsive utilities with breakpoint modifiers (e.g., `md:dx-col-6`)
+-   Links should use their default styling, without additional classes, unless specified otherwise
 
 **Typography**
 
